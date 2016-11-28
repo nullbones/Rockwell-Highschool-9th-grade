@@ -1,0 +1,7 @@
+
+Term: the combination of constants and/or variables seperated by operation
+Algebraic exptession: a mathmatical phrase that includes numbers variables and operat
+Variable: an unknown letter that represents a number
+Operation: addition subtraction multiplication or division signs
+Constant: a number that stands alone theres not variable next to it
+
