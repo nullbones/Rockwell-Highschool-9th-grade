@@ -1,0 +1,66 @@
+Functions
++-------+
+
+Definition:
+A function is a relation where
+every input has exactly one
+output.
+
+Domain:
+"x" input, 
+Independent
+"x" = input, independent
+
+Range:
+"f(x)", "y", 
+outputs Dependents
+"f(x)", "y" = output, dependant
+
+Characteristics:
+if you draw a cericle line though the graph 
+and it youche more than once-it is NOT a function
+
+Example: { (1,2)(2,2)(3,2)(4,2) }
+
+        ^
+        |
+   *-*-*|*-*-*-* = Function
+        |
+<-------+-------->
+	|
+        |
+        |
+        v
+
+	^
+	| *
+	|*
+	*
+<------*+-------> = Funtion
+      * |
+     *  |
+    *   |
+	v
+
+	^
+	|
+    *-*-*-*
+	| /
+<-------+*------> = Not a Funtion
+       *|
+     *  |
+      *-*-*-*
+	v
+
+	 
+
+
+
+inputs | output
+-------|-------
+72     |    144
+1      |      2
+25     |     50
+7      |     14
+
+

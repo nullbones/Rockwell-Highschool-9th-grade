@@ -1,0 +1,56 @@
+Explinantions
++------------+
+
+ Variable Expression
++-------------------+
+Made up of variables,
+numbers and operations
+
+ Term
++----+
+each item that 
+is seperated by a Operation 
+"+" "-" "/" "*"
+
+ Factors
++-------+
+Two numbers 
+That are being 
+multiplyed together
+
+ Quotient
++--------+
+Number being multiplyed 
+to the variable
+
+ Variable
++--------+
+Lower case letter hiding
+the place for "Any number"
+
+ Words And Translation
++---------------------+
+Addition: "+"
+	-More Than
+	-Sum
+	-Increased By 
+	-Greater than
+
+Subtraction: "-"
+	-Less than
+	-Difference
+	-Decreased by
+	-Subtracted from
+
+Multiplication: "*"
+	-Product
+	-Times
+	-Multiplied by
+	-Twice
+	-Doubled
+	
+Divition: "/"
+	-Quotient
+	-Divided by
+	-Divided into
+	-Equal parts
